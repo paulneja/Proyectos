@@ -1,3 +1,4 @@
+<img width="320" height="327" alt="image" src="https://github.com/user-attachments/assets/78b32e2c-1ee5-4c6f-9d99-0fc20e9eb192" />
 ## Proyectos
 
 Este repositorio reúne varios programas y juegos creados por **paulneja**.  
