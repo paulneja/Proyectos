@@ -4,6 +4,11 @@ Este repositorio reúne varios programas y juegos creados por **paulneja**.
 Algunos están listos en versiones empaquetadas (dentro de carpetas `dist/`) y otros todavía se encuentran solo como código fuente en `.py`.
 
 ---
+## Aclaraciones
+- La carpeta **`python/`** contiene programas fuera del ámbito de los juegos, pensados para cumplir funciones específicas (ejemplo: calculadoras de hash, extractores de texto, monitores, etc.).  
+- La carpeta **`extras/`** incluye otros proyectos adicionales, como minijuegos o pruebas experimentales que fui creando.  (ejemplo: el juego del mago).
+
+---
 
 ## Aviso importante
 
