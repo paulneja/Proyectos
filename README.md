@@ -1,4 +1,3 @@
-<img width="320" height="327" alt="image" src="https://github.com/user-attachments/assets/78b32e2c-1ee5-4c6f-9d99-0fc20e9eb192" />
 ## Proyectos
 
 Este repositorio reúne varios programas y juegos creados por **paulneja**.  
@@ -31,12 +30,8 @@ Podés encontrar las versiones empaquetadas en la sección de [Releases](https:/
 Cada carpeta `dist` incluye el ejecutable junto con todos los recursos que necesita.  
 La estructura suele ser algo así:
 
-dist/
-├─ programa.exe
-├─ ejemplo.png
-├─ ejemplo.ejemplo
-├─ record.json
-└─ store.json
+<img width="320" height="327" alt="image" src="https://github.com/user-attachments/assets/9cdf0ebb-c534-443a-9a98-7aaa70bc53e0" />
+
 
 
 Siempre abrí el programa desde dentro de su carpeta `dist`.  
