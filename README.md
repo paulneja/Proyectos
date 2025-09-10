@@ -80,3 +80,40 @@ No deben usarse con intenciones dañinas o que puedan afectar a otras personas.
 ## Autor
 
 Todos los proyectos de este repositorio fueron creados por **paulneja**.  **
+
+
+
+
+## Imagenes de proyectos
+
+*HashSentinel*
+<img width="1623" height="564" alt="image" src="https://github.com/user-attachments/assets/1823bf11-32d7-433a-9f2e-62f90fccb776" />
+
+
+
+*Monitor*
+<img width="601" height="485" alt="image" src="https://github.com/user-attachments/assets/49df6a5d-275f-48e4-bb75-ad29d2af0e19" />
+
+
+
+*Monitor Lite*
+<img width="1089" height="257" alt="image" src="https://github.com/user-attachments/assets/b71ef9a4-4010-4113-928c-b855a9b8c04d" />
+
+
+*HashHunter PRO*
+<img width="1849" height="589" alt="image" src="https://github.com/user-attachments/assets/4b6d354f-6735-46f5-9417-e1231f716d43" />
+
+<img width="660" height="473" alt="image" src="https://github.com/user-attachments/assets/35a136c7-98af-438e-9dd7-eb81e9883237" />
+
+
+
+
+
+
+
+
+
+
+
+
+
