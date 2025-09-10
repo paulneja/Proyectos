@@ -89,7 +89,7 @@ Todos los proyectos de este repositorio fueron creados por **paulneja**.  **
 *HashSentinel*
 <img width="1623" height="564" alt="image" src="https://github.com/user-attachments/assets/1823bf11-32d7-433a-9f2e-62f90fccb776" />
 
-
+---
 
 *Monitor*
 <img width="601" height="485" alt="image" src="https://github.com/user-attachments/assets/49df6a5d-275f-48e4-bb75-ad29d2af0e19" />
@@ -99,11 +99,31 @@ Todos los proyectos de este repositorio fueron creados por **paulneja**.  **
 *Monitor Lite*
 <img width="1089" height="257" alt="image" src="https://github.com/user-attachments/assets/b71ef9a4-4010-4113-928c-b855a9b8c04d" />
 
+---
 
 *HashHunter PRO*
 <img width="1849" height="589" alt="image" src="https://github.com/user-attachments/assets/4b6d354f-6735-46f5-9417-e1231f716d43" />
 
 <img width="660" height="473" alt="image" src="https://github.com/user-attachments/assets/35a136c7-98af-438e-9dd7-eb81e9883237" />
+
+---
+*ForenX*
+<img width="1919" height="481" alt="image" src="https://github.com/user-attachments/assets/219a9c86-50f4-4b2f-8c09-d37c947bc357" />
+
+<img width="1910" height="994" alt="image" src="https://github.com/user-attachments/assets/cc365bb4-707b-4ccc-88bc-0c172addafe7" />
+
+<img width="702" height="427" alt="image" src="https://github.com/user-attachments/assets/a23432a3-3719-4abf-8c50-c14f92813043" />
+---
+
+## Dudas y mejoras
+
+Ante cualquier duda, sugerencia de mejora u otra cosa pueden decirlo en el *issue*
+
+
+
+
+
+
 
 
 
