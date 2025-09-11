@@ -40,6 +40,7 @@ Siempre abrí el programa desde dentro de su carpeta `dist`.
 Algunos proyectos todavía están en versión código fuente.  
 Si querés usarlos de inmediato, podés compilarlos manualmente con python o visual studio.
 
+<img width="298" height="128" alt="image" src="https://github.com/user-attachments/assets/c2946337-7a7a-4b51-b042-e63edeecd76d" />
 
 Si no querés hacerlo, simplemente podés esperar a que vaya subiendo las versiones empaquetadas. La idea es seguir actualizando este repositorio con más programas listos para ejecutar.
 
