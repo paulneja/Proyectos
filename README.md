@@ -113,6 +113,13 @@ Todos los proyectos de este repositorio fueron creados por **paulneja**.  **
 <img width="1910" height="994" alt="image" src="https://github.com/user-attachments/assets/cc365bb4-707b-4ccc-88bc-0c172addafe7" />
 
 <img width="702" height="427" alt="image" src="https://github.com/user-attachments/assets/a23432a3-3719-4abf-8c50-c14f92813043" />
+
+---
+
+*Juego del mago*
+
+<img width="1178" height="805" alt="image" src="https://github.com/user-attachments/assets/da219265-bd8c-4ab6-bc53-377e539dcdcb" />
+
 ---
 
 ## Dudas y mejoras
