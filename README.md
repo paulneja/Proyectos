@@ -24,7 +24,7 @@ Esto quiere decir que:
 
 ## Descarga y ejecución
 
-Podés encontrar las versiones empaquetadas en la sección de [Releases](https://github.com/paulneja/Proyectos/releases/tag/programs).  
+Podés encontrar las versiones empaquetadas en la sección de [Releases](https://github.com/paulneja/Proyectos/releases/tag/Program).  
 
 ### Programas con carpeta `dist/`
 Cada carpeta `dist` incluye el ejecutable junto con todos los recursos que necesita.  
